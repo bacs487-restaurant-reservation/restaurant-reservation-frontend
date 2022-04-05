@@ -34,6 +34,8 @@ class Restaurants extends React.Component {
 
     render() {
 
+        console.log(this.filterZip)
+
         return this.filterZip;
 
         // let {
